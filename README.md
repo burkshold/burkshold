@@ -1,43 +1,38 @@
 # Hi there, I'm Anthony "AB" Burks! 👋
-### Sourcing Recruiter @ Lockheed Martin | Ex-Bell Helicopter
+### Technical Sourcer – Critical Skills Team @ Lockheed Martin Aeronautics | Ex-Bell Flight
 
-Welcome to my GitHub profile! I am a passionate Sourcing Recruiter focused on finding and connecting top-tier tech, software, and aerospace engineering talent with mission-critical career opportunities.
+Welcome to my GitHub profile! I am a Technical Sourcer specializing in identifying and connecting niche, mission-critical engineering talent across **Aerospace, Space, and Missile & Fire Control** with strategic defense programs. 
+
+My primary focus is partnering with specialized physicists, electrical engineers, and systems architects who ensure next-generation military satellites, strategic missiles, hypersonics, and command-and-control platforms survive and operate through extreme cosmic radiation and nuclear environments.
 
 ---
 
-### 🔍 Technical Focus Areas & Target Roles
-I love connecting with developers, innovators, and engineers building the future of defense tech, autonomous systems, rotorcraft, and enterprise infrastructure. Here are the core skillsets and domains I focus on:
+### 🔍 Core Technical Focus Areas & Target Roles
 
-#### 🎯 Strategic Defense Systems (Lockheed Martin Style Roles)
-* **Embedded Systems & Aerospace Software** (Flight Management Systems, Avionics)
-* **Systems Engineering & Integration** (Hardware/Software Mission Systems)
-* **Cybersecurity, Information Assurance & Network Defense** (GovCloud, CMMC)
+#### ☢️ Nuclear Hardening & Survivability (NH&S) Engineering
+* **Radiation Transport & Shielding Simulation:** Coupled particle transport modeling, 3D CAD shielding weight optimization, and failure mode dose calculation (tallies) using **MCNP**, **GEANT4** (C++), **NOVICE**, and **SRIM/TRIM**.
+* **Radiation Effects & Rad-Hard Microelectronics:** Piece-part selection, circuit hardening, and fault-tolerance design against **TREE** (Transient Radiation Effects on Electronics), **TID** (Total Ionizing Dose), **NDD** (Neutron Displacement Damage), and **SEE / SEU / SEL** (Single Event Effects, Upsets, and Latch-ups).
+* **Electromagnetic & Blast Environments:** Protection design and circuit-level stress simulation for **HEMP / EMP**, **SGEMP** (System-Generated EMP), X-ray, gamma, neutron, and thermal shock using **PSpice / LTspice**, **Cadence**, and **MATLAB**.
+* **Space Environment & Orbit Analysis:** Modeling Van Allen belts, solar particle events, and orbital dose depth curves via **SPENVIS**, **CRÈME96**, **OMERE**, and **Shieldose**.
+* **Accelerator Testing & Defense Standards:** Heavy-ion and radiation beam testing at cyclotron facilities (e.g., Brookhaven, Texas A&M) and compliance with **MIL-STD-1766**, **MIL-STD-188-125**, **MIL-STD-883 / 750**, and **DoDI 3150.09**.
 
-#### 🚁 Advanced Vertical Lift & Rotorcraft (Bell Helicopter Style Roles)
-* **Flight Control Systems (FCS)** (Fly-By-Wire Architecture, Actuation Controls)
-* * **Aerodynamic Simulation & Modeling** (MATLAB, Simulink, C/C++)
-* **Airframe Structures & High-Rate Composite Manufacturing Engineering**
+#### 🛰️ Space, Missiles & Fire Control Systems
+* **RF, Microwave & Electromagnetic Engineering:** Radar systems, Electronic Warfare (EW), phased-array antenna design, and **EMI/EMC** hardening.
+* **Guidance, Navigation & Control (GNC):** Hypersonic flight dynamics, trajectory simulation, inertial navigation, and multi-sensor fusion.
+* **Systems Engineering & Integration:** Model-Based Systems Engineering (**MBSE**), hardware/software mission systems integration, and survivability requirements flow-down.
 
-#### 🌐 Enterprise & Cloud Infrastructure (Microsoft Style Roles)
-* **Cloud Architecture & DevOps** (Azure, AWS, Government Cloud environments)
-* **Full-Stack & Backend Systems Development** (C#, Java, Python, TypeScript)
-* **Distributed Systems & Scalable Secure Identity Infrastructure**
+#### ✈️ Next-Gen Aeronautics & Autonomous Flight
+* **Embedded Flight Software & Avionics:** Mission-critical flight management software in **C/C++**, **Rust**, **Ada**, RTOS, and custom **Linux Kernel** environments.
+* **Flight Control Systems (FCS) & Aerodynamics:** Fly-By-Wire architecture, actuation controls, and aerodynamic modeling (**MATLAB / Simulink**).
+* **Autonomy & Distributed C2:** Swarm flight tactics, computer vision, AI/ML operations, and distributed Command & Control software.
 
-#### 🤖 Autonomous Systems & Robotics (Anduril Style Roles)
-* **Computer Vision, AI & ML Operations (MLOps)**
-* **Distributed Command & Control (C2) Core Software**
-* **Forward Deployed Software Engineering (FDSE)**
+---
 
-#### ✈️ UAS, Swarm Flight & Guidance (Swarm Aero Style Roles)
-* **Autonomy, Simulation & Mission Tactics Engineering**
-* **Embedded Software & Flight Control Systems** (C/C++, Rust, Linux Kernel)
-* **Autonomous Unmanned Aerial Systems (UAS) Design**
+### 🛡️ Security Clearances & Backgrounds I Partner With
+Because these programs support national security and strategic deterrence, I regularly connect with cleared professionals (**Active DoD Secret, Top Secret, and TS/SCI**) holding degrees in **Nuclear Engineering, Electrical Engineering (Semiconductor Physics / RF), Applied Physics, and Aerospace Engineering** across defense primes, FFRDCs, and national laboratories.
+
 ---
 
 ### 💼 Open to Connect
-Whether you are actively looking for a new role, want to learn more about engineering cultures, or just want to expand your professional network, let's chat!
+Whether you are a survivability specialist building GEANT4 simulations, an RF engineer designing hardened payloads, or a systems architect exploring your next mission-critical challenge, let's connect!
 
-* **💼 LinkedIn:** [Connect with me on LinkedIn](https://linkedin.com)
-* **💬 Pronouns:** Just Me
-
-*“Connecting great talent with mission-critical projects.”*
